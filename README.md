@@ -4,6 +4,8 @@ A modern, responsive front-end e-commerce web application designed to showcase a
 
 This project demonstrates my understanding of core front-end development concepts and my ability to design structured, user-friendly, and interactive web applications using HTML, CSS, and JavaScript.
 
+🌐 **Live Demo:** https://shalupandey-12.github.io/Krrish-Handicraft-Store/
+
 ## 📌 OVERVIEW
 
 Handicrafts Store is a front-end e-commerce website that allows users to browse handcrafted products through an organized and visually engaging layout. The application emphasizes simplicity, performance, and usability while maintaining a modern design approach.
